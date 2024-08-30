@@ -1,0 +1,22 @@
+{
+  "name": "video_streaming_app",
+  "version": "1.0.0",
+  "description": "A full-stack video streaming app built with Node.js, Express.js, React, MongoDB, and integrated with FFmpeg, offering a seamless platform for streaming and managing content like YouTube.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Eshu tomar",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "multer": "^1.4.5-lts.1",
+    "uuid": "^10.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
