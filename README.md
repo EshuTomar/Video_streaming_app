@@ -31,8 +31,8 @@ Before you begin, ensure you have the following installed on your system:
 ## Installation
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/video-streaming-app.git
-cd video-streaming-app
+git clone https://github.com/EshuTomar/Video_streaming_app.git
+cd /Video_streaming_app
 
 
 
